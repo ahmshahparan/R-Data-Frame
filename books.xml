@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <book>
+        <id>01</id>
+        <title>Lincoln in the Bardo</title>
+        <publicationDate>	February 14, 2017</publicationDate>
+        <publisher>Random House</publisher>
+        <isbn>9780812995343</isbn>
+        <category>Historical fiction</category>
+        <author>George Saunders</author>
+    </book>
+    <book>
+        <id>02</id>
+        <title>Data Science for Business</title>
+        <publicationDate>Jul 27, 2013</publicationDate>
+        <publisher>O'Reilly Media, Inc.</publisher>
+        <isbn>9781449361327</isbn>
+        <category>Business</category>
+        <author>Foster Provost</author>
+        <author>Tom Fawcett</author>
+    </book>
+    <book>
+        <id>03</id>
+        <title>Unbroken</title>
+        <publicationDate>November 16, 2010</publicationDate>
+        <publisher>Random House</publisher>
+        <isbn>9781400064168</isbn>
+        <category>Business</category>
+        <author>Laura Hillenbrand</author>
+    </book>
+</books>
