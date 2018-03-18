@@ -1,36 +1,34 @@
 {  
-   "books":{  
-      "book":[  
-         {  
-            "id":"01",
-            "title":"Lincoln in the Bardo",
-            "publicationDate":"February 14, 2017",
-            "publisher":"Random House",
-            "isbn":"9780812995343",
-            "category":"Historical fiction",
-            "author":"George Saunders"
-         },
-         {  
-            "id":"02",
-            "title":"Data Science for Business",
-            "publicationDate":"Jul 27, 2013",
-            "publisher":"O'Reilly Media, Inc.",
-            "isbn":"9781449361327",
-            "category":"Business",
-            "author":[  
-               "Foster Provost",
-               "Tom Fawcett"
-            ]
-         },
-         {  
-            "id":"03",
-            "title":"Unbroken",
-            "publicationDate":"November 16, 2010",
-            "publisher":"Random House",
-            "isbn":"9781400064168",
-            "category":"Biography",
-            "author":"Laura Hillenbrand"
-         }
-      ]
-   }
+   "book":[  
+      {  
+         "id":"01",
+         "title":"Lincoln in the Bardo",
+         "publicationDate":"February 14, 2017",
+         "publisher":"Random House",
+         "isbn":"9780812995343",
+         "category":"Historical fiction",
+         "author":"George Saunders"
+      },
+      {  
+         "id":"02",
+         "title":"Data Science for Business",
+         "publicationDate":"Jul 27, 2013",
+         "publisher":"O'Reilly Media, Inc.",
+         "isbn":"9781449361327",
+         "category":"Business",
+         "author":[  
+            "Foster Provost",
+            "Tom Fawcett"
+         ]
+      },
+      {  
+         "id":"03",
+         "title":"Unbroken",
+         "publicationDate":"November 16, 2010",
+         "publisher":"Random House",
+         "isbn":"9781400064168",
+         "category":"Biography",
+         "author":"Laura Hillenbrand"
+      }
+   ]
 }
