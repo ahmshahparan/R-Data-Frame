@@ -3,7 +3,7 @@
     <book>
         <id>01</id>
         <title>Lincoln in the Bardo</title>
-        <publicationDate>	February 14, 2017</publicationDate>
+        <publicationDate>February 14, 2017</publicationDate>
         <publisher>Random House</publisher>
         <isbn>9780812995343</isbn>
         <category>Historical fiction</category>
@@ -17,7 +17,6 @@
         <isbn>9781449361327</isbn>
         <category>Business</category>
         <author>Foster Provost</author>
-        <author>Tom Fawcett</author>
     </book>
     <book>
         <id>03</id>
